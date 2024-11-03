@@ -1,0 +1,115 @@
+[
+     {
+          "id": 1,
+          "tittle": "pan",
+          "description": "pan horneado tipo flautita",
+          "price": 20,
+          "code": 3,
+          "status": true,
+          "stock": 30,
+          "category": "panificados",
+          "thumbnail": [
+               "Foto 1",
+               "Foto 2"
+          ]
+     },
+     {
+          "id": 2,
+          "tittle": "oreos",
+          "description": "Galletitas de chocolate con relleno de vainilla",
+          "price": 20,
+          "code": 3,
+          "status": true,
+          "stock": 30,
+          "category": "galletitas",
+          "thumbnail": [
+               "Foto Producto"
+          ]
+     },
+     {
+          "id": 4,
+          "tittle": "palitos salados",
+          "description": "snack de palitos salados",
+          "code": 88,
+          "price": 26,
+          "status": true,
+          "stock": 32,
+          "category": "snack",
+          "thumbnail": [
+               "Foto 1",
+               "Foto 2"
+          ]
+     },
+     {
+          "id": 5,
+          "tittle": "pizza",
+          "description": "pizza para hornear",
+          "code": 44,
+          "price": 20,
+          "status": true,
+          "stock": 30,
+          "category": "panificados",
+          "thumbnail": [
+               "Foto 1",
+               "Foto 2",
+               "Foto 3"
+          ]
+     },
+     {
+          "id": 6,
+          "tittle": "osos de gomita",
+          "description": "gomitas de gelatina con forma de oso",
+          "code": 29,
+          "price": 20,
+          "status": true,
+          "stock": 3,
+          "category": "golosinas",
+          "thumbnail": [
+               "Foto 1",
+               "Foto 2",
+               "Foto 3",
+               "Foto 4"
+          ]
+     },
+     {
+          "id": 7,
+          "tittle": "galletitas paseo",
+          "description": "galletitas cracker de 400 gramos",
+          "code": 89,
+          "price": 24,
+          "status": true,
+          "stock": 4,
+          "category": "galletitas",
+          "thumbnail": [
+               "Foto 1"
+          ]
+     },
+     {
+          "id": 8,
+          "tittle": "pan bimbo",
+          "description": "pan de miga en paquete marca bimbo",
+          "code": 12,
+          "price": 40,
+          "status": true,
+          "stock": 30,
+          "category": "panificados",
+          "thumbnail": [
+               "Foto 1",
+               "Foto 2"
+          ]
+     },
+     {
+          "id": 9,
+          "tittle": "alfajores capitan del espacio",
+          "description": "Alfajores de galleta crocante con relleno de dulce leche de almendra",
+          "code": 82,
+          "price": 20,
+          "status": true,
+          "stock": 30,
+          "category": "golosinas",
+          "thumbnail": [
+               "Foto 1",
+               "Foto 2"
+          ]
+     }
+]

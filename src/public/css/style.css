@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.enlace{
+    text-decoration:none;
+    color:black;
+}
+
+.contenedorProductos{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.tarjetaProducto{
+    margin:10px;
+    border: 1px solid black;
+    width:30%;
+    height:200px;
+    border-radius:15px;
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+}
+
+.contenedorTituloYCategoriaProducto{
+    padding:2% 5%;
+    border-bottom:1px solid black;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.tituloProducto{
+    color:black;
+    font-size:25px
+}
+.categoriaProducto{
+    background-color:#666;
+    color:white;
+    border-radius: 15px;
+    padding:1%
+}
+
+.contenedorFotosProducto{
+
+}
+
+.contenedorDescripcionProducto{
+    color:black;
+    font-size:19px;
+    padding-left:2%;
+}
